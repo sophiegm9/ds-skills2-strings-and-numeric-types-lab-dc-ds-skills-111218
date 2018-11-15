@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.499"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">pytests/test_index.py:7: in &lt;module&gt;
+    from ipynb.fs.full.index import ceo, art_vandelay, ends_with_com, web_address, phone_num_one, phone_num_two
+index.ipynb:63: in &lt;module&gt;
+    },
+E   NameError: name &apos;atart_vandelay&apos; is not defined</error></testcase></testsuite>
